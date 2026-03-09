@@ -82,4 +82,4 @@ export const resposta08 = 20 === 20
 export const resposta09 = "fido" != "snoopy"
 
 /* Questão 10 */
-export const resposta10 = false !== true
+export const resposta10 = false !== tru

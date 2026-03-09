@@ -67,32 +67,3 @@ export let nomeDaSuaEscola = "ETE Cícero Dias"
 
 export let quinzeMaisCinco = 20
 /* Questão 11 */
-
-export let valorFalso = False
-/* Questão 12 */
-
-export let dezMaisQuatro = 14
-
-/* Questão 13 */
-export let nomeDoSeuEstado = "Pernambuco"
-
-/* Questão 14 */
-export let artistaFavorito = "Kleberiano"
-
-/* Questão 15 */
-export let seteVezesSete = 49
-
-/* Questão 16 */
-export let umMaiorQueDoisVerdadeOuNao = Nao
-
-/* Questão 17 */
-export let comidaFavorita = "Lasanha"
-
-/* Questão 18 */
-export let oCeuEhAzulVerdadeOuNao = Verdade
-
-/* Questão 19 */
-export let objetoNulo = null
-
-/* Questão 20 */
-export let valorVerdadeiro = True
